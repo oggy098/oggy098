@@ -1,16 +1,31 @@
-## Hi there 👋
+# Grüezzi, ich bin Oggy! 👋 🛠️
 
-<!--
-**oggy098/oggy098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Digital-Monteur | System-Builder | Entrepreneur
 
-Here are some ideas to get you started:
+Ich bin kein klassischer Software-Entwickler, sondern ein **Macher**. Mein Fokus liegt darauf, reale Probleme durch die Kombination von **Technik, Handwerk und Software** zu lösen. Ich baue Systeme, die Nutzen bringen, Effizienz steigern und Fortschritt ermöglichen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Woran ich arbeite
+- **WordPress Ökosystem:** Eigene Plugin-Suiten für System-Wartung und Performance.
+- **Booking-Systeme:** Spezialisierte Termin-Lösungen für lokale Betriebe (z.B. Coiffure).
+- **Automation:** Verbindung von Hardware, Web und Apps zu funktionierenden Workflows.
+
+## 🛠️ Mein Werkzeugkasten
+- **Code:** PHP (WordPress Core/Plugins), JavaScript, CSS.
+- **Tools:** Cursor AI, GitHub, WordPress, MainWP.
+- **Mindset:** „Wie funktioniert’s und wie bringt es den maximalen Nutzen?“
+
+## 🎯 Ziele & Werte
+- **Unabhängigkeit & Freiheit:** Aufbau von skalierbaren Systemen.
+- **Hands-on:** Nicht lange theoretisieren, sondern schnell in die Umsetzung gehen.
+- **Karma-Business:** „What you give comes back.“
+
+---
+
+## 📬 Kontakt
+- 🌍 Website: [digital-monteur.ch](https://digital-monteur.ch/)
+- 📍 Standort: Aargau, Schweiz 🇨🇭
+
+---
+*„Dinge verstehen + umsetzen + sinnvoll einsetzen.“*
